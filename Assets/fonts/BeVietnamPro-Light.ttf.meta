@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c09fb6a13d3a1524c8f6ac345ffcb22a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Be Vietnam Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a054646a87562b64ea04397cf134783c, type: 3}
+  - {fileID: 12800000, guid: 49aa4e8ce8306bc49a933f074093cbd3, type: 3}
+  - {fileID: 12800000, guid: b024eec5943284b47897ec3f3b2b1c39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
